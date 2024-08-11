@@ -65,10 +65,18 @@ Existing Attendance System:
 
  ![image](https://github.com/user-attachments/assets/01cff1d1-1a50-4f21-a6c4-545a7e5486d8)
 
+                                                 Teacher marking attendance 
+
+![image](https://github.com/user-attachments/assets/949ddf51-1a9e-4602-9455-e4998213d7fe)
 
                                                       Teacher login/sign-up
 
 ![image](https://github.com/user-attachments/assets/90d5a98c-6592-41a3-91c0-204cb2838d69)
+
+
+                                                  Student dashboard - Attendance records date wise 
+
+![image](https://github.com/user-attachments/assets/3a0cfb74-9709-4a4f-861e-8378b5360f98)
 
 
                                                       
