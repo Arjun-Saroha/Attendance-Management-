@@ -1,4 +1,4 @@
-                                                         INTRODUCTION
+# INTRODUCTION
 
 
 Existing Attendance System:
@@ -20,7 +20,7 @@ Existing Attendance System:
 
 
 
-                                                         XAMPP
+# XAMPP
 
 (X-Cross Platform, A-Apache, M-MySQL, P-PHP, P-Perl)
 
@@ -35,7 +35,7 @@ Existing Attendance System:
 
 ![image](https://github.com/user-attachments/assets/8de6eeed-1a68-4b28-8726-16aa46418d2d)
 
-                                                 PROJECT SNAP SHOTS
+# PROJECT SNAP SHOTS
 
                                                       Homepage
 
