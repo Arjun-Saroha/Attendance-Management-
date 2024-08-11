@@ -63,11 +63,13 @@ Existing Attendance System:
 
                                                 Admin Dashboard – attendance section
 
-  ![image](https://github.com/user-attachments/assets/14ca7daf-cc59-4943-88a8-b13000cc692a)
+ ![image](https://github.com/user-attachments/assets/01cff1d1-1a50-4f21-a6c4-545a7e5486d8)
+
 
                                                       Teacher login/sign-up
 
-    ![image](https://github.com/user-attachments/assets/25412591-ab52-4539-b2de-34453b48f4ff)
+![image](https://github.com/user-attachments/assets/90d5a98c-6592-41a3-91c0-204cb2838d69)
+
 
                                                       
 
