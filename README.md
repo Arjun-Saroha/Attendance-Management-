@@ -20,7 +20,7 @@ Existing Attendance System:
 
 
 
-XAMPP 
+                                                         XAMPP
 
 (X-Cross Platform, A-Apache, M-MySQL, P-PHP, P-Perl)
 
